@@ -11,7 +11,7 @@ apellido = prompt("Ingrese su apellido");
 let edad = 33; //number - intenger - int;
 let altura = 1.61; //Double - float
 let profesor = false; // Boleano
-let informacion = [nombre, edad, altura, estudiante]; //Array
+let informacion = [nombre, edad, altura, profesor]; //Array
 // console.log(informacion);
 // console.log(informacion[2]);
 let Vaso = {//Objeto
